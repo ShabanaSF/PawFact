@@ -1,0 +1,11 @@
+@use 'Pawfactpartial';
+
+/*Nesting*/
+
+main {
+    section {
+        div a {
+            color: $primary;
+        }
+    }
+}
